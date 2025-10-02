@@ -45,3 +45,5 @@ added a line
 added another line 
 this will create a conflict 
 conflictline
+conflict
+conflict line
