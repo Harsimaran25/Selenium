@@ -45,10 +45,7 @@ added a line
 added another line
 this will create a conflict
 conflictline
-<<<<<<< HEAD
 
 adding conflicting linees
-=======
 conflict
 conflict line
->>>>>>> fd84cfb902a7e0dde1301f6f14d7485b7ee34a07
